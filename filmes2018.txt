@@ -1,0 +1,173 @@
+Lista de Filmes - Oscar 2018.
+
+Melhor filme
+	Dunkirk
+	Me Chame pelo Seu Nome
+	O Destino de Uma Nação
+	Corra!
+	Lady Bird - É Hora de Voar
+	Trama Fantasma
+	The Post - A Guerra Secreta
+	A Forma da Água
+	Três Anúncios para um Crime
+
+Melhor diretor/diretora
+	Christopher Nolan (Dunkirk)
+	Jordan Peele (Corra!)
+	Greta Gerwig (Lady Bird: É Hora de Voar)
+	Paul Thomas Anderson (Trama Fantasma)
+	Guillermo del Toro (A Forma da Água)
+
+Melhor atriz
+	Sally Hawkins (A Forma da Água)
+	Frances McDormand (Três Anúncios para um Crime)
+	Margot Robbie (Eu, Tonya)
+	Saoirse Ronan (Lady Bird: É Hora de Voar)
+	Meryl Streep (The Post: A Guerra Secreta)
+
+Melhor ator
+	Timothée Chalamet (Me Chame pelo Seu Nome)
+	Daniel Day-Lewis (Trama Fantasma)
+	Daniel Kaluuya (Corra!)
+	Gary Oldman (O Destino de Uma Nação)
+	Denzel Washington (Roman J. Israel, Esq.)
+
+Melhor roteiro original
+	Corra!
+	Doentes de Amor
+	A Forma da Água
+	Lady Bird - É Hora de Voar
+	Três Anúncios para um Crime
+
+Melhor roteiro adaptado
+	Me Chame pelo Seu Nome
+	O Artista do Desastre
+	A Grande Jogada
+	Logan
+	Mudbound: Lágrimas sobre o Mississippi
+
+Melhor atriz coadjuvante
+	Mary J. Blige (Mudbound: Lágrimas sobre o Mississippi)
+	Allison Janney (Eu, Tonya)
+	Lesley Manville (Trama Fantasma)
+	Laurie Metcalf (Lady Bird: É Hora de Voar)
+	Octavia Spencer (A Forma da Água)
+
+Melhor ator coadjuvante
+	Sam Rockwell (Três Anúncios para um Crime)
+	Willem Defoe (Projeto Flórida)
+	Woody Harrelson (Três Anúncios para um Crime)
+	Richard Jenkins (A Forma da Água)
+	Christopher Plummer (Todo o Dinheiro do Mundo)
+
+Melhor roteiro adaptado
+	O Artista do Desastre
+	Me Chame pelo Seu Nome
+	A Grande Jogada
+	Logan
+	Mudbound: Lágrimas sobre o Mississippi
+
+Melhor filme estrangeiro
+	Corpo e Alma, de Ildikó Enyedi (Hungria)
+	Sem Amor, de Andrey Zvyagintsev (Rússia)
+	O Insulto, de Ziad Doueiri (Líbano)
+	Uma Mulher Fantástica, de Sebastián Lelio (Chile)
+	The Square: A Arte da Discórdia, de Ruben Östlund (Suécia)
+
+Melhor documentário
+	Abacus: Pequeno o Bastante para Condenar
+	Ícaro
+	Últimos Homens em Aleppo
+	Strong Island
+	Visages, Villages
+
+Melhor fotografia
+	Blade Runner 2049
+	O Destino de uma Nação
+	Dunkirk
+	Mudbound: Lágrima sobre o Mississippi
+	A Forma da Água
+
+Melhor direção de arte
+	A Bela e a Fera
+	Blade Runner 2049
+	Dunkirk
+	O Destino de uma Nação
+	A Forma da Água
+
+Melhor edição
+	Dunkirk
+	Em Ritmo de Fuga
+	Eu, Tonya
+	A Forma da Água
+	Três Anúncios para um Crime
+
+Melhor animação
+	O Poderoso Chefinho [assisti]
+	Com Amor, Van Gogh [vou assistir]
+	O Touro Ferdinando [vou assistir]
+	The Breadwinner
+	Viva: A Vida É uma Festa [assisti]
+
+Melhor canção
+	Mighty River, de Mudbound: Lágrimas sobre o Mississippi
+	Remember Me, de Viva: A Vida É uma Festa
+	Stand Up for Something, de Marshall
+	The Mystery of Love, de Me Chame pelo Seu Nome
+	This is Me, de O Rei do Show
+
+Melhor trilha sonora
+	Hans Zimmer, de Dunkirk
+	Alexandre Desplat, de A Forma da Água
+	John Williams, de Star Wars: Os Últimos Jedi
+	Jonny Greenwood, de Trama Fantasma
+	Carter Burwell, de Três Anúncios para um Crime
+
+Melhores efeitos visuais
+	Blade Runner 2049
+	Guardiões da Galáxia - Vol. 2
+	Kong: A Ilha da Caveira
+	Planeta dos Macacos: A Guerra
+	Star Wars: Os Últimos Jedi
+
+Melhor maquiagem
+	O Destino de uma Nação
+	Extraordinário
+	Victoria & Abdul
+
+
+Melhor mixagem de som
+	Em Ritmo de Fuga
+	Blade Runner 2049
+	Dunkirk
+	A Forma da Água
+	Star Wars: Os Últimos Jedi
+
+Melhor edição de som
+	Em Ritmo de Fuga
+	Blade Runner 2049
+	Dunkirk
+	A Forma da Água
+	Star Wars: Os Últimos Jedi
+
+Melhor curta-metragem
+	DeKalb Elementary
+	My Nephew Emmett
+	The Silent Child
+	The Eleven O'Clock
+	Waty Wote
+
+Melhor curta de animação
+	Dear Basketball
+	Lou
+	Negative Space
+	Garden Party
+	Revolting Rhymes
+
+Melhor curta documentário
+	Heroin(e)
+	Edith + Eddie
+	Heaven is a traffic jam on the 405
+	Knife Skills
+	Traffic Stop
+	...
